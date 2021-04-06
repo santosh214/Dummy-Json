@@ -1,7 +1,9 @@
 {
   "posts": [
     {
-      
+      "_dupz": [
+        "62.7"
+      ],
       "apartmentid": "201",
       "apartmenttype": "Studio",
       "area": "62.7",
@@ -25,7 +27,7 @@
       "layoutimagename": "BM_T1_ST_201_Base",
       "parking": "1",
       "remarks": "Not Available",
-      "s.no.": "1",
+      "id": "1",
       "scenename": "Null",
       "tower": "Poseidon",
       "type": "SA",
@@ -43,7 +45,9 @@
       "visz": "0"
     },
     {
-      
+      "_dupz": [
+        "64.7"
+      ],
       "apartmentid": "202",
       "apartmenttype": "Studio",
       "area": "64.7",
@@ -67,7 +71,7 @@
       "layoutimagename": "BM_T1_ST_202_Base",
       "parking": "1",
       "remarks": "Not Available",
-      "s.no.": "2",
+      "id": "2",
       "scenename": "Null",
       "tower": "Poseidon",
       "type": "SB",
@@ -85,7 +89,9 @@
       "visz": "0"
     },
     {
-      
+      "_dupz": [
+        "61.0"
+      ],
       "apartmentid": "203",
       "apartmenttype": "Studio",
       "area": "61",
@@ -109,7 +115,7 @@
       "layoutimagename": "BM_T1_ST_203_Base",
       "parking": "1",
       "remarks": "Not Available",
-      "s.no.": "3",
+      "id": "3",
       "scenename": "Null",
       "tower": "Poseidon",
       "type": "SC",
@@ -127,7 +133,9 @@
       "visz": "0"
     },
     {
-      
+      "_dupz": [
+        "67.1"
+      ],
       "apartmentid": "420",
       "apartmenttype": "Studio",
       "area": "67.1",
@@ -151,7 +159,7 @@
       "layoutimagename": "BM_T1_ST_204_Base",
       "parking": "1",
       "remarks": "Not Available",
-      "s.no.": "4",
+      "id": "4",
       "scenename": "Null",
       "tower": "Poseidon",
       "type": "SD",
@@ -169,7 +177,9 @@
       "visz": "0"
     },
     {
-      
+      "_dupz": [
+        "62.3"
+      ],
       "apartmentid": "205",
       "apartmenttype": "Studio",
       "area": "62.3",
@@ -193,7 +203,7 @@
       "layoutimagename": "BM_T1_ST_205_Base",
       "parking": "1",
       "remarks": "Not Available",
-      "s.no.": "5",
+      "id": "5",
       "scenename": "Null",
       "tower": "Poseidon",
       "type": "SE",
@@ -211,7 +221,9 @@
       "visz": "0"
     },
     {
-      
+      "_dupz": [
+        "76.8"
+      ],
       "apartmentid": "206",
       "apartmenttype": "Studio",
       "area": "76.8",
@@ -235,7 +247,7 @@
       "layoutimagename": "BM_T1_ST_206_Base",
       "parking": "1",
       "remarks": "Not Available",
-      "s.no.": "6",
+      "id": "6",
       "scenename": "Null",
       "tower": "Poseidon",
       "type": "SF",
@@ -251,91 +263,10 @@
       "visx": "0",
       "visy": "0",
       "visz": "0"
-    },
-    {
-      
-      "apartmentid": "207",
-      "apartmenttype": "Studio",
-      "area": "123.3",
-      "arx": "0",
-      "ary": "0",
-      "arz": "0",
-      "asx": "1",
-      "asy": "1",
-      "asz": "1",
-      "availability": "Not Available",
-      "building": "T1",
-      "buildingfloor": "BM_BL_T1_2nd",
-      "buildingfloorkeyplan": "T1_2_ST_207_Base",
-      "buildinghighlighter": "T1_2_207_F_Base",
-      "commonarea": "44.8",
-      "coveredveranda": "0.0",
-      "floor": "2",
-      "internalarea": "78.5",
-      "isscene": "0",
-      "layoutdirecton": "0",
-      "layoutimagename": "BM_T1_ST_207_Base",
-      "parking": "1",
-      "remarks": "Not Available",
-      "s.no.": "7",
-      "scenename": "Null",
-      "tower": "Poseidon",
-      "type": "SG",
-      "uniqueid": "T1_02_207",
-      "unittype": "Apartment",
-      "viewiname": "Null",
-      "vipx": "0",
-      "vipy": "0",
-      "vipz": "0",
-      "virx": "0",
-      "viry": "0",
-      "virz": "0",
-      "visx": "0",
-      "visy": "0",
-      "visz": "0"
-    },
-    {
-      
-      "apartmentid": "208",
-      "apartmenttype": "Studio",
-      "area": "129.6",
-      "arx": "0",
-      "ary": "0",
-      "arz": "0",
-      "asx": "1",
-      "asy": "1",
-      "asz": "1",
-      "availability": "Not Available",
-      "building": "T1",
-      "buildingfloor": "BM_BL_T1_2nd",
-      "buildingfloorkeyplan": "T1_2_ST_208_Base",
-      "buildinghighlighter": "T1_2_208_F_Base",
-      "commonarea": "27.1",
-      "coveredveranda": "55.0",
-      "floor": "2",
-      "internalarea": "47.5",
-      "isscene": "0",
-      "layoutdirecton": "180",
-      "layoutimagename": "BM_T1_ST_208_Base",
-      "parking": "1",
-      "remarks": "Not Available",
-      "s.no.": "8",
-      "scenename": "Null",
-      "tower": "Poseidon",
-      "type": "SH",
-      "uniqueid": "T1_02_208",
-      "unittype": "Apartment",
-      "viewiname": "Null",
-      "vipx": "0",
-      "vipy": "0",
-      "vipz": "0",
-      "virx": "0",
-      "viry": "0",
-      "virz": "0",
-      "visx": "0",
-      "visy": "0",
-      "visz": "0"
     }
-  ]
-
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
 }
