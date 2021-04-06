@@ -1,9 +1,7 @@
 {
   "posts": [
     {
-      "_dupz": [
-        "62.7"
-      ],
+      
       "apartmentid": "201",
       "apartmenttype": "Studio",
       "area": "62.7",
@@ -45,9 +43,7 @@
       "visz": "0"
     },
     {
-      "_dupz": [
-        "64.7"
-      ],
+      
       "apartmentid": "202",
       "apartmenttype": "Studio",
       "area": "64.7",
@@ -89,9 +85,7 @@
       "visz": "0"
     },
     {
-      "_dupz": [
-        "61.0"
-      ],
+      
       "apartmentid": "203",
       "apartmenttype": "Studio",
       "area": "61",
@@ -133,9 +127,7 @@
       "visz": "0"
     },
     {
-      "_dupz": [
-        "67.1"
-      ],
+      
       "apartmentid": "420",
       "apartmenttype": "Studio",
       "area": "67.1",
@@ -177,9 +169,7 @@
       "visz": "0"
     },
     {
-      "_dupz": [
-        "62.3"
-      ],
+      
       "apartmentid": "205",
       "apartmenttype": "Studio",
       "area": "62.3",
@@ -221,9 +211,7 @@
       "visz": "0"
     },
     {
-      "_dupz": [
-        "76.8"
-      ],
+      
       "apartmentid": "206",
       "apartmenttype": "Studio",
       "area": "76.8",
@@ -265,9 +253,7 @@
       "visz": "0"
     },
     {
-      "_dupz": [
-        "123.3"
-      ],
+      
       "apartmentid": "207",
       "apartmenttype": "Studio",
       "area": "123.3",
@@ -309,9 +295,7 @@
       "visz": "0"
     },
     {
-      "_dupz": [
-        "129.6"
-      ],
+      
       "apartmentid": "208",
       "apartmenttype": "Studio",
       "area": "129.6",
@@ -353,9 +337,7 @@
       "visz": "0"
     },
     {
-      "_dupz": [
-        "58.1"
-      ],
+      
       "apartmentid": "209",
       "apartmenttype": "Studio",
       "area": "58.1",
@@ -397,9 +379,7 @@
       "visz": "0"
     },
     {
-      "_dupz": [
-        "69.1"
-      ],
+      
       "apartmentid": "210",
       "apartmenttype": "1BR",
       "area": "69.1",
@@ -440,9 +420,6 @@
       "visy": "0",
       "visz": "0"
     }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  ]
+
 }
